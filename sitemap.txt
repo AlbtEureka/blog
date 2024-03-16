@@ -1,9 +1,9 @@
 http://albteureka.me/posts/hello-world/
+http://albteureka.me/404.html
 http://albteureka.me/about/index.html
 http://albteureka.me/archives/index.html
 http://albteureka.me/categories/index.html
 http://albteureka.me/tags/index.html
-http://albteureka.me/404.html
 http://albteureka.me/
 http://albteureka.me/tags/Hexo/
 http://albteureka.me/tags/%E5%8D%9A%E5%AE%A2/

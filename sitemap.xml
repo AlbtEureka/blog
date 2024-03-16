@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://albteureka.me/404.html</loc>
+    
+    <lastmod>2024-03-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://albteureka.me/about/index.html</loc>
     
     <lastmod>2024-03-16</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>http://albteureka.me/tags/index.html</loc>
-    
-    <lastmod>2024-03-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://albteureka.me/404.html</loc>
     
     <lastmod>2024-03-16</lastmod>
     
